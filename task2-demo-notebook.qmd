@@ -2,11 +2,18 @@
 title: Use the Obsidian demo vault
 ---
 
-You can find and download the demo vault from here:
+You can find and download the demo vault from [Github](https://github.com/selinaZitrone/notebook_demo). Follow the **Get started** instructions in the README on Github to download and open.
 
-https://github.com/selinaZitrone/notebook_demo
+Then you can
 
-Follow the **Get started** instructions in the README on Github to download and open
+- **Explore the demo vault**: Best place to start is the folder "00_GetStarted" with the files:
+  - `Get Started - Obsidian`: Explains Obsidian in general (settings, hotkeys), markdown notes and links, tags, plugins, the graph view and some more things.
+  - `Get Started - Vault`: Explains the structure of the demo vault, the workflows that are implemented and the plugins that are installed
+  - `Get Started - Resources`: Links to some nice Obsidian resources
+- **Explore and test the demo vault workflows**. You can find explanations and how-tos for the workflows in "00_GetStarted". All the workflows should work out of the box, except for the literature notes from Zotero. For this workflow you need to connect your Zotero database first. For all workflows, there are already example files in the folders.
+  - `Create note from template`: important to know for almost all workflows
+  - `Periodic notes and lab journal`: Create automatic daily and weekly notes from a template
+  - `Project management`: Create a project file and link to meetings and notes in the project
+  - `Literature notes from Zotero`: Connect the Obsidian vault with Zotero to create literature notes
+  - `Knowledge management with Zettelkasten`: Create and link notes with the Zettelkasten method
 
-- Explore the demo vault -> Look at the example files
-- Test the workflows you find most interesting -> Look at the "Get started files"

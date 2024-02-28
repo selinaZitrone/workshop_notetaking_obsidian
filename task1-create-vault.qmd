@@ -56,15 +56,15 @@ Use #tag to add some tags to your notes.
 
 ## 7. Other things to try for the fast ones
 
+- **Create a separate folder for Attachments**
+  - Create the folder
+	- Set the folder as new attachment location: *Settings -> Files & Links -> Default location for new attachments*
 - **Checkout other markdown things**
   - Have a look at the [markdown reference](markdown-reference.qmd)
-- **Add a Canvas file** (right click in File menu -> New Canvas)
-- **Create a separate folder for Attachments**
-  - Creat the folder
-	- Set the folder as new attachment location: *Settings -> Files & Links -> Default location for new attachments*
 - **Explore the settings section**
   - Try a new theme
   - Look at the hotkeys
 - **Try out the most important keyboard shortcuts**
 	- `Ctrl/Cmd + P` to open the command palette
 	- `Ctrl/Cmd + O` to find/create notes
+- **Add a Canvas file for mindmaps** (right click in File menu -> New Canvas)

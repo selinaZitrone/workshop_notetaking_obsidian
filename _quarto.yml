@@ -23,6 +23,7 @@ website:
 
 format:
   html:
+    embed-resources: true
     theme:
       light: [flatly, style/theme.scss]
       dark: [darkly, style/theme-dark.scss]

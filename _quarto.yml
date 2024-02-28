@@ -1,6 +1,6 @@
 project:
   type: website
-  output_dir: "docs"
+  output-dir: docs
 
 website:
   repo-url: "https://github.com/selinaZitrone/workshop_notetaking_obsidian"

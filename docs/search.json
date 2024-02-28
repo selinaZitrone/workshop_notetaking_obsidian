@@ -4,7 +4,7 @@
     "href": "task2-demo-notebook.html",
     "title": "Use the Obsidian demo vault",
     "section": "",
-    "text": "You can find and download the demo vault from here:\nhttps://github.com/selinaZitrone/notebook_demo\nFollow the Get started instructions in the README on Github to download and open\n\nExplore the demo vault -&gt; Look at the example files\nTest the workflows you find most interesting -&gt; Look at the “Get started files”"
+    "text": "You can find and download the demo vault from Github. Follow the Get started instructions in the README on Github to download and open.\nThen you can\n\nExplore the demo vault: Best place to start is the folder “00_GetStarted” with the files:\n\nGet Started - Obsidian: Explains Obsidian in general (settings, hotkeys), markdown notes and links, tags, plugins, the graph view and some more things.\nGet Started - Vault: Explains the structure of the demo vault, the workflows that are implemented and the plugins that are installed\nGet Started - Resources: Links to some nice Obsidian resources\n\nExplore and test the demo vault workflows. You can find explanations and how-tos for the workflows in “00_GetStarted”. All the workflows should work out of the box, except for the literature notes from Zotero. For this workflow you need to connect your Zotero database first. For all workflows, there are already example files in the folders.\n\nCreate note from template: important to know for almost all workflows\nPeriodic notes and lab journal: Create automatic daily and weekly notes from a template\nProject management: Create a project file and link to meetings and notes in the project\nLiterature notes from Zotero: Connect the Obsidian vault with Zotero to create literature notes\nKnowledge management with Zettelkasten: Create and link notes with the Zettelkasten method"
   },
   {
     "objectID": "resources.html",
@@ -186,6 +186,6 @@
     "href": "task1-create-vault.html#other-things-to-try-for-the-fast-ones",
     "title": "Get started with Obsidian",
     "section": "7. Other things to try for the fast ones",
-    "text": "7. Other things to try for the fast ones\n\nCheckout other markdown things\n\nHave a look at the markdown reference\n\nAdd a Canvas file (right click in File menu -&gt; New Canvas)\nCreate a separate folder for Attachments\n\nCreat the folder\n\nSet the folder as new attachment location: Settings -&gt; Files & Links -&gt; Default location for new attachments\n\n\nExplore the settings section\n\nTry a new theme\nLook at the hotkeys\n\nTry out the most important keyboard shortcuts\n\nCtrl/Cmd + P to open the command palette\nCtrl/Cmd + O to find/create notes"
+    "text": "7. Other things to try for the fast ones\n\nCreate a separate folder for Attachments\n\nCreate the folder\n\nSet the folder as new attachment location: Settings -&gt; Files & Links -&gt; Default location for new attachments\n\n\nCheckout other markdown things\n\nHave a look at the markdown reference\n\nExplore the settings section\n\nTry a new theme\nLook at the hotkeys\n\nTry out the most important keyboard shortcuts\n\nCtrl/Cmd + P to open the command palette\nCtrl/Cmd + O to find/create notes\n\nAdd a Canvas file for mindmaps (right click in File menu -&gt; New Canvas)"
   }
 ]

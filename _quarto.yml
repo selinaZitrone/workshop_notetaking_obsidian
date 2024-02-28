@@ -1,0 +1,33 @@
+project:
+  type: website
+  output_dir: "docs"
+
+website:
+  repo-url: "https://github.com/selinaZitrone/workshop_notetaking_obsidian"
+  site-url: "https://selinazitrone.github.io/workshop_notetaking_obsidian/"
+  repo-actions: [edit, issue]
+  repo-branch: main
+  title: "Effective digital notetaking with Obsidian"
+  description: "Workshop by Selina Baldauf"
+  
+  navbar:
+    pinned: true
+    left:
+      - href: markdown-reference.qmd
+        text: Markdown reference
+    right:
+      - href: task1-create-vault.qmd
+        text: Hands-on 1
+      - href: task2-demo-notebook.qmd
+        text: Hands-on 2
+
+format:
+  html:
+    theme:
+      light: [flatly, style/theme.scss]
+      dark: [darkly, style/theme-dark.scss]
+    toc: true
+    code-copy: true
+
+
+

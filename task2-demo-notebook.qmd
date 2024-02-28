@@ -1,0 +1,12 @@
+---
+title: Use the Obsidian demo vault
+---
+
+You can find and download the demo vault from here:
+
+https://github.com/selinaZitrone/notebook_demo
+
+Follow the **Get started** instructions in the README on Github to download and open
+
+- Explore the demo vault -> Look at the example files
+- Test the workflows you find most interesting -> Look at the "Get started files"

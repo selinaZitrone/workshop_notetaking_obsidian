@@ -1,0 +1,70 @@
+---
+title: Get started with Obsidian
+---
+
+In this task, you will start your own Obsidian vault and learn how to navigate it and create notes and link them.
+
+## 1. Create a new vault
+
+Open up Obsidian and create a new vault. Choose a location on your computer where you want to store your notes.
+
+## 2. Add 2 or 3 notes
+
+Try different ways of adding notes to your notebook:
+
+- Keyboard shortcut `Ctrl/Cmd + N`
+- Right click in the file explorer and select `New note`
+- Click the button for a new note on top of the file explorer
+
+## 3. Add some markdown to the notes
+
+Open up one or two notes (maybe also side by side) and add some simple markdown to them. You can select some basic markdown from the list below. When you completed the other tasks, you can also have a look at the [markdown reference](markdown-reference.qmd) to find even more markdown elements with examples.
+
+````md
+# First level header
+## Second level header
+### Third level header
+
+**bold** and *italic*   -> Hotkeys: Ctrl/Cmd + B and Ctrl/Cmd + I
+
+- list item
+- list item
+
+1. numbered list item
+2. numbered list item
+
+- [ ] A task
+
+[A link to a website](https://google.com) -> Hotkey: Ctrl/Cmd + K
+
+````
+
+## 4. Add and embed some internal Links
+
+- Link another file in your vault `[[The file name]]`
+- Embedded links with `!` before the link
+- Copy paste or drag and drop images/PDFs into your notes
+
+## 5. Add Tags 
+
+Use #tag to add some tags to your notes.
+
+## 6. Explore the view
+
+- Open files in different tabs
+- Drag and drop the files next to each other
+
+## 7. Other things to try for the fast ones
+
+- **Checkout other markdown things**
+  - Have a look at the [markdown reference](markdown-reference.qmd)
+- **Add a Canvas file** (right click in File menu -> New Canvas)
+- **Create a separate folder for Attachments**
+  - Creat the folder
+	- Set the folder as new attachment location: *Settings -> Files & Links -> Default location for new attachments*
+- **Explore the settings section**
+  - Try a new theme
+  - Look at the hotkeys
+- **Try out the most important keyboard shortcuts**
+	- `Ctrl/Cmd + P` to open the command palette
+	- `Ctrl/Cmd + O` to find/create notes

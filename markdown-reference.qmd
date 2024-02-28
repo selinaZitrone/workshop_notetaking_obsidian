@@ -1,0 +1,162 @@
+---
+title: Markdown reference
+---
+
+# Basic formatting
+
+## Headers
+
+````md
+# First level header
+## Second level header
+### Third level header
+#### Fourth level header
+```` 
+
+## Text formatting
+
+````md
+**bold**
+*italic*
+~~strikethrough~~
+````
+
+become **bold**, *italic* and ~~strikethrough~~ text.
+
+:::{.callout-tip}
+
+Use keyboard shortcuts `Ctrl/Cmd + B` for **bold** and `Ctrl/Cmd + I` for *italic* text
+
+:::
+
+## Lists
+
+### Bullet point lists
+
+````md
+**Shopping list**
+
+- apple
+- banana
+````
+
+**Shopping list**
+
+- apple
+- banana
+
+### Itemized lists
+
+````md
+**Shopping list**
+
+1. apple
+2. banana
+````
+
+**Shopping list**
+
+1. apple
+2. banana
+
+### Check-box lists
+
+````md
+**Shopping list**
+
+- [ ] apple
+- [ ] banana
+```` 
+
+become:
+
+**Shopping list**
+
+- [ ] apple
+- [ ] banana
+
+## Links
+
+### External links
+
+````md	
+[A link to a website](https://google.com)
+````
+
+becomes: [A link to a website](https://google.com)
+
+:::{.callout-tip}
+
+Use keyboard shortcut `Ctrl/Cmd + K`
+
+:::
+
+### Internal links
+
+With internal links, you can link to other pages in your Obsidian vault.
+If you want, you can also link to specific sections within a page.
+
+````md
+[[Link to a page in Obsidian]]
+[[Link to a page in Obsidian|Custom text]]
+[[Link to a section in Obsidian#section]]
+````
+
+# Advanced formatting
+
+## Code
+
+**Inline code** formatting starts and ends with 1 backtick and will look `like this`.
+
+```{r, echo=FALSE}
+code = '`like this`'
+cat(code)
+```
+
+**Code blocks** start and end with 3 backticks and can have a language specified for syntax highlighting.
+
+````md
+```r
+# An R code snippet
+mean(1:3)
+```
+````
+
+becomes:
+
+```r
+# An R code snippet
+mean(1:3)
+```
+
+## Equations
+
+You can use LaTeX to write equations in your markdown notes.
+
+Either, you can use **inline equations** like this: `$e^{i\pi} + 1 = 0$` which becomes $e^{i\pi} + 1 = 0$.
+
+Or you can use **display equations** like this:
+
+````md
+$$
+\int_0^\infty e^{-x^2} dx
+$$
+````
+
+which becomes:
+
+$$
+\int_0^\infty e^{-x^2} dx
+$$
+
+## Embedded links
+
+You can embed links images and videos, but also to other notes in your Obsidian vault.
+Embedding a note will display the content of the note in your current note.
+
+All you need to do to embed a note is to add an `!` in front of the link.
+
+````md
+![[Embedding a note]]
+![Embedding a video](https://youtu.be/WPAV1SNkdFg?si=U5EWwFa5ji9UF6fJ)
+````

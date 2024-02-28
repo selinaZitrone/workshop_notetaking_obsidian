@@ -10,7 +10,7 @@ Effective note-taking is an important skill for any scientist to keep track of t
 
 - [Markdown reference](markdown-reference.qmd)
 - [Hands-on 1: Create your first Obsidian vault](task1-create-vault.qmd)
-- [Hands-on 2: Work with the demo notebook](task2-demo-notebook.qmd): Demo vault
+- [Hands-on 2: Work with the demo notebook](task2-demo-notebook.qmd)
 
 You can find most of the workshop content also explained in this video from my 
 scientific workflows lecture series:
